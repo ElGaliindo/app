@@ -1,3 +1,8 @@
+# Integrantes
+
+Este proyecto es realizado por Cristian Jose Giraldo Y Freddy A Galindo, para la UMD como corte 2 parcial
+
+
 # App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
